@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio\\Jagged masivi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88A1557-D045-4E98-A2B7-F7479579A5D3}|max ploshtadka\\max ploshtadka.csproj|e:\\visual studio\\jagged masivi\\max ploshtadka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88A1557-D045-4E98-A2B7-F7479579A5D3}|max ploshtadka\\max ploshtadka.csproj|solutionrelative:max ploshtadka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77891DE7-6E89-499D-A6BB-81C2A5B76A2D}|paskal piramida\\paskal piramida.csproj|e:\\visual studio\\jagged masivi\\paskal piramida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77891DE7-6E89-499D-A6BB-81C2A5B76A2D}|paskal piramida\\paskal piramida.csproj|solutionrelative:paskal piramida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Jagged masivi\\paskal piramida\\Program.cs",
+              "RelativeDocumentMoniker": "paskal piramida\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Jagged masivi\\paskal piramida\\Program.cs",
+              "RelativeToolTip": "paskal piramida\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:07:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Jagged masivi\\max ploshtadka\\Program.cs",
+              "RelativeDocumentMoniker": "max ploshtadka\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Jagged masivi\\max ploshtadka\\Program.cs",
+              "RelativeToolTip": "max ploshtadka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:06:50.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
